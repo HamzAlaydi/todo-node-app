@@ -1,4 +1,5 @@
-# This project is and implementation for Node Middleware
+# This project is and implementation for Node Middleware 
+# Main Features (Node, EJS)
 
 # 1- module exports
 # 2- todo add and post dynamically for two content pages
